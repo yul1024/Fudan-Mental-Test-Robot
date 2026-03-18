@@ -1,0 +1,48 @@
+{
+    "code": 0,
+    "message": "",
+    "data": [
+        {
+            "planID": 26,
+            "planTitle": "2026年春季学生心理健康普测",
+            "startTime": "2026-03-12 09:00",
+            "endTime": "2026-03-18 16:00",
+            "instruction": "    心理健康普测是依据一定的心理学理论，使用一定的操作程序，给心理特性和行为确定出一种数量化的数值，是一项严肃的科学工作。为保证测验的合法性和有效性，中心作如下郑重承诺：本次心理普测是为了让你更好的了解自我，所有问题的答案无对错之分，请按你的实际情况真实回答。普测结果严格保密，仅供中心专业人员使用，未经本人同意，不会提供给任何组织和个人。    \n    心理健康教育中心是我校专业的心理健康教育工作机构。若你遇到心理困惑想找人倾诉，希望获得专业帮助，均可通过线上预约、面谈、预约电话等方式与我们沟通交流。本校在校学生咨询服务均免费。\n    点击“同意”即表明你已理解本次测验的目的，同意参加测验，并愿真实作答。",
+            "conclusion": "调查完成",
+            "scaleNum": 2,
+            "answerNum": 0,
+            "scaleList": [
+                {
+                    "scaleId": 1,
+                    "scaleTitle": "学生心理健康普查量表",
+                    "questionNum": 96,
+                    "minAnswerTime": "0",
+                    "isAnswer": 0,
+                    "isLookReport": "1",
+                    "aliasName": "学生心理健康普查量表",
+                    "scaleAliasName": "学生心理健康普查量表",
+                    "scaleMold": 1,
+                    "isSkipRule": "0"
+                },
+                {
+                    "scaleId": 9,
+                    "scaleTitle": "积极心理品质量表",
+                    "questionNum": 62,
+                    "minAnswerTime": "0",
+                    "isAnswer": 0,
+                    "isLookReport": "1",
+                    "aliasName": "积极心理品质量表",
+                    "scaleAliasName": "积极心理品质量表",
+                    "scaleMold": 1,
+                    "isSkipRule": "0"
+                }
+            ],
+            "isRepeat": 0,
+            "isEnabled": 1,
+            "testType": 1,
+            "isShowUser": 1,
+            "answeredDossierIdSet": [],
+            "answered": false
+        }
+    ]
+}
