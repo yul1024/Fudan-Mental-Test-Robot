@@ -1,0 +1,2067 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "scale": {
+            "scaleId": 9,
+            "scaleTypeTitle": null,
+            "codeName": "pps",
+            "title": "积极心理品质量表",
+            "description": "",
+            "instruction": "接下来有62条陈述，每条陈述对应有五个级别：①非常像我②像我③不确定④不像我⑤非常不像。请您仔细阅读每一条陈述，根据该选项陈述是否像你来做出选择。答案无对错之分，做题时请凭第一感觉作答，谢谢。",
+            "scaleStatus": 1,
+            "questionNum": 62,
+            "minAnswerTime": 0,
+            "epilog": "所有问题已经答完，再次感谢。"
+        },
+        "questionList": [
+            {
+                "questionId": 228,
+                "questionContent": "我经常花时间参加教育类的活动",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 987,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 988,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 989,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 990,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 991,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 229,
+                "questionContent": "对于眼前的事情我总是从多个角度来考虑",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 992,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 993,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 994,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 995,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 996,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 230,
+                "questionContent": "面对激烈的反对意见时，我总能坚持自己的立场",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 997,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 998,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 999,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1000,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1001,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 231,
+                "questionContent": "我总是信守诺言",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1002,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1003,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1004,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1005,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1006,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 232,
+                "questionContent": "当我犯错误时我总会承认",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1007,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1008,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1009,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1010,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1011,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 233,
+                "questionContent": "我热爱学习新鲜事物",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1012,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1013,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1014,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1015,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1016,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 234,
+                "questionContent": "我总是会看到事物的多个方面",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1017,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1018,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1019,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1020,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1021,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 235,
+                "questionContent": "在不同的环境中，我知道如何把握自己",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1022,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1023,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1024,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1025,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1026,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 236,
+                "questionContent": "在朋友眼里，我做事情比较客观",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1027,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1028,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1029,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1030,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1031,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 237,
+                "questionContent": "在我的生活中，有人关心我的感情和幸福就像关心他们自己一样",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1032,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1033,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1034,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1035,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1036,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 238,
+                "questionContent": "别人的善举会让我感动",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1037,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1038,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1039,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1040,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1041,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 239,
+                "questionContent": "当我听到别人极为慷慨的举动时，我会激动不已",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1042,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1043,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1044,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1045,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1046,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 240,
+                "questionContent": "我总是忙于有趣的事情",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1047,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1048,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1049,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1050,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1051,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 241,
+                "questionContent": "当我听到新鲜的事物会兴奋",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1052,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1053,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1054,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1055,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1056,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 242,
+                "questionContent": "我是一个有目标的人",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1057,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1058,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1059,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1060,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1061,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 243,
+                "questionContent": "当有人情绪低落时，我会不怕麻烦让他们振作起来",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1062,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1063,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1064,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1065,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1066,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 244,
+                "questionContent": "有很多人愿意接受我的缺点",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1067,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1068,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1069,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1070,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1071,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 245,
+                "questionContent": "不管是谁，我都会平等对待",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1072,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1073,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1074,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1075,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1076,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 246,
+                "questionContent": "我有能力让小组中的成员很好合作",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1077,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1078,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1079,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1080,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1081,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 247,
+                "questionContent": "当我看到美丽的事物，会有很深的情感体验",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1082,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1083,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1084,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1085,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1086,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 248,
+                "questionContent": "我每天至少反省一次",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1087,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1088,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1089,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1090,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1091,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 249,
+                "questionContent": "不论面临什么挑战，我都会对将来满怀信心",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1092,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1093,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1094,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1095,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1096,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 250,
+                "questionContent": "我对世界总是充满好奇",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1097,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1098,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1099,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1100,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1101,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 251,
+                "questionContent": "每天我都找机会去学习和发展",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1102,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1103,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1104,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1105,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1106,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 252,
+                "questionContent": "尽管遇到阻碍，我也会把事情坚持做完",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1107,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1108,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1109,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1110,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1111,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 253,
+                "questionContent": "我很擅长制定小组活动计划",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1112,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1113,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1114,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1115,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1116,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 254,
+                "questionContent": "我从来不会吹嘘我的成就",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1117,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1118,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1119,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1120,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1121,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 255,
+                "questionContent": "我能接受别人过去的错误，让他们重新开始",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1122,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1123,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1124,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1125,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1126,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 256,
+                "questionContent": "我对许多不同的活动感到兴奋",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1127,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1128,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1129,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1130,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1131,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 257,
+                "questionContent": "我是一个真正的终身学习者",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1132,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1133,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1134,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1135,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1136,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 258,
+                "questionContent": "我总是知道别人做事的动机",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1137,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1138,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1139,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1140,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1141,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 259,
+                "questionContent": "我的承诺值得信赖",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1142,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1143,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1144,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1145,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1146,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 260,
+                "questionContent": "无论我的家人和亲密的朋友做什么事情，我都会爱他们",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1147,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1148,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1149,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1150,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1151,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 261,
+                "questionContent": "在过去的一天里，我花了半个小时去反省自我",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1152,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1153,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1154,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1155,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1156,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 262,
+                "questionContent": "我的朋友们说我有许多与众不同的新想法",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1157,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1158,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1159,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1160,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1161,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 263,
+                "questionContent": "我总是坚持我的信念",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1162,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1163,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1164,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1165,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1166,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 264,
+                "questionContent": "在我的生活中，我总能感觉到爱的存在",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1167,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1168,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1169,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1170,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1171,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 265,
+                "questionContent": "对我来说，在我的小组中维持融洽的关系非常重要",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1172,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1173,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1174,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1175,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1176,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 266,
+                "questionContent": "每次行动之前，我都会三思",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1177,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1178,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1179,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1180,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1181,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 267,
+                "questionContent": "我按照自己的信念塑造自我",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1182,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1183,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1184,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1185,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1186,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 268,
+                "questionContent": "在令人沮丧的情形中，我也能保持幽默感",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1187,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1188,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1189,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1190,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1191,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 269,
+                "questionContent": "我总是愿意给别人机会赔礼道歉",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1192,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1193,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1194,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1195,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1196,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 270,
+                "questionContent": "深思熟虑是我的一个特点",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1197,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1198,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1199,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1200,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1201,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 271,
+                "questionContent": "我的想法新颖",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1202,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1203,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1204,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1205,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1206,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 272,
+                "questionContent": "我擅长觉察别人的感觉",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1207,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1208,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1209,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1210,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1211,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 273,
+                "questionContent": "我对生活有着成熟的看法",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1212,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1213,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1214,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1215,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1216,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 274,
+                "questionContent": "我的朋友们总说我是一个强有力且公平的领导者",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1217,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1218,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1219,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1220,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1221,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 275,
+                "questionContent": "我知道我将能够达成我为自己制定的目标",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1222,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1223,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1224,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1225,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1226,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 276,
+                "questionContent": "对我来说，让自己享受快乐是很容易的事情",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1227,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1228,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1229,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1230,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1231,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 277,
+                "questionContent": "我的朋友们都知道我的想象力",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1232,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1233,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1234,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1235,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1236,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 278,
+                "questionContent": "即使我有不同意见，我也会尊重我的小组领导",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1237,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1238,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1239,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1240,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1241,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 279,
+                "questionContent": "我是一个很小心谨慎的人",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1242,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1243,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1244,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1245,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1246,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 280,
+                "questionContent": "回首我的生活，我会发现许多令我感激的事情",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1247,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1248,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1249,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1250,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1251,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 281,
+                "questionContent": "谦虚是我的一个最显著的特点",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1252,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1253,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1254,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1255,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1256,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 282,
+                "questionContent": "对我来说，尊重小组的决议是重要的",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1257,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1258,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1259,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1260,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1261,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 283,
+                "questionContent": "没有人曾经用骄傲自大形容我",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1262,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1263,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1264,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1265,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1266,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 284,
+                "questionContent": "别人认为我很公正",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1267,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1268,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1269,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1270,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1271,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 285,
+                "questionContent": "我容易同别人分享情感",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1272,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1273,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1274,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1275,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1276,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 286,
+                "questionContent": "在我的生活中，我得到了许多祝福",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1277,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1278,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1279,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1280,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1281,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 287,
+                "questionContent": "大家知道我有良好的幽默感",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1282,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1283,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1284,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1285,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1286,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 288,
+                "questionContent": "人们用富有风趣来形容我",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1287,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1288,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1289,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1290,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1291,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 289,
+                "questionContent": "当有人对我不好时，我设法去理解他们",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1292,
+                        "optionType": 0,
+                        "optionContent": "非常像我"
+                    },
+                    {
+                        "optionId": 1293,
+                        "optionType": 0,
+                        "optionContent": "比较像我"
+                    },
+                    {
+                        "optionId": 1294,
+                        "optionType": 0,
+                        "optionContent": "一般"
+                    },
+                    {
+                        "optionId": 1295,
+                        "optionType": 0,
+                        "optionContent": "比较不像我"
+                    },
+                    {
+                        "optionId": 1296,
+                        "optionType": 0,
+                        "optionContent": "非常不像我"
+                    }
+                ],
+                "childList": []
+            }
+        ],
+        "cacheTime": "2026-03-12T09:01:48.2150187+08:00"
+    }
+}
