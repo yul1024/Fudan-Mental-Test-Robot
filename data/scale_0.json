@@ -1,0 +1,2469 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "scale": {
+            "scaleId": 1,
+            "scaleTypeTitle": null,
+            "codeName": "PSYCLOUDV2",
+            "title": "学生心理健康普查量表",
+            "description": "1．本测验由许多与你有关的问题组成，当你阅读每一题时，请考虑是否符合你自己的行为、感情、态度及意见，并根据自己的真实情况给予回答，掩饰或者不真实的反应可能会无法通过测试。\n\n2．请尽快填写你看完题目后的第一印象，不必费太多时间思考，人的个性各有不同，你的回答无所谓对错，不必有任何顾虑地参加测试才能更好地了解自己。\n\n3．建议使用Chrome浏览器来完成此次测试。如在答题过程中遇到任何问题，请联系心理中心的老师们。",
+            "instruction": "整个测评大约需要10-20分钟，根据每个人不同的情况会不太一样。所有题目答完后，请点击”提交“按钮完成本次测试。当你完成了整个测评之后，会得到一份关于你心理和个性特点的心理测评报告。测评的结果会严格保密，只有你自己和心理中心的老师才可能看到。如有特殊情况，我们会和你本人取得联系。如果你对测评的结果有兴趣，想进一步了解，也欢迎你和我们联系，预约心理老师讨论。",
+            "scaleStatus": 1,
+            "questionNum": 96,
+            "minAnswerTime": 0,
+            "epilog": ""
+        },
+        "questionList": [
+            {
+                "questionId": 1,
+                "questionContent": "&lt;p&gt;1.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 1,
+                        "optionType": 0,
+                        "optionContent": "A.我不感到悲伤"
+                    },
+                    {
+                        "optionId": 2,
+                        "optionType": 0,
+                        "optionContent": "B.我感到悲伤"
+                    },
+                    {
+                        "optionId": 3,
+                        "optionType": 0,
+                        "optionContent": "C.我始终悲伤，不能自制"
+                    },
+                    {
+                        "optionId": 4,
+                        "optionType": 0,
+                        "optionContent": "D.我太悲伤或不愉快，不堪忍受"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 2,
+                "questionContent": "&lt;p&gt;2.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 5,
+                        "optionType": 0,
+                        "optionContent": "A.我对将来并不失望"
+                    },
+                    {
+                        "optionId": 6,
+                        "optionType": 0,
+                        "optionContent": "B.对未来我感到心灰意冷"
+                    },
+                    {
+                        "optionId": 7,
+                        "optionType": 0,
+                        "optionContent": "C.我感到前景黯淡"
+                    },
+                    {
+                        "optionId": 8,
+                        "optionType": 0,
+                        "optionContent": "D.我觉得将来毫无希望，无法改善"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 3,
+                "questionContent": "&lt;p&gt;3.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 9,
+                        "optionType": 0,
+                        "optionContent": "A.我没有感到失败"
+                    },
+                    {
+                        "optionId": 10,
+                        "optionType": 0,
+                        "optionContent": "B.我觉得比一般人失败要多一些"
+                    },
+                    {
+                        "optionId": 11,
+                        "optionType": 0,
+                        "optionContent": "C.回首往事，我能看到的是很多次失败"
+                    },
+                    {
+                        "optionId": 12,
+                        "optionType": 0,
+                        "optionContent": "D.我觉得我是一个完全失败的人"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 4,
+                "questionContent": "&lt;p&gt;4.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 13,
+                        "optionType": 0,
+                        "optionContent": "A.我和以前一样，从各种事件中得到满足"
+                    },
+                    {
+                        "optionId": 14,
+                        "optionType": 0,
+                        "optionContent": "B.我不像往常一样从各种事件中得到满足"
+                    },
+                    {
+                        "optionId": 15,
+                        "optionType": 0,
+                        "optionContent": "C.我不再能从各种事件中得到真正的满足"
+                    },
+                    {
+                        "optionId": 16,
+                        "optionType": 0,
+                        "optionContent": "D.我对一切事情都不满意或感到枯燥无味"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 5,
+                "questionContent": "&lt;p&gt;5.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 17,
+                        "optionType": 0,
+                        "optionContent": "A.我不感到罪过"
+                    },
+                    {
+                        "optionId": 18,
+                        "optionType": 0,
+                        "optionContent": "B.我在相当部分的时间里感到罪过"
+                    },
+                    {
+                        "optionId": 19,
+                        "optionType": 0,
+                        "optionContent": "C.我在大部分时间里觉得有罪"
+                    },
+                    {
+                        "optionId": 20,
+                        "optionType": 0,
+                        "optionContent": "D.我在任何时候都觉得有罪"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 6,
+                "questionContent": "&lt;p&gt;6.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 21,
+                        "optionType": 0,
+                        "optionContent": "A.我没有觉得受到惩罚"
+                    },
+                    {
+                        "optionId": 22,
+                        "optionType": 0,
+                        "optionContent": "B.我觉得可能受到惩罚"
+                    },
+                    {
+                        "optionId": 23,
+                        "optionType": 0,
+                        "optionContent": "C.我预料将受到惩罚"
+                    },
+                    {
+                        "optionId": 24,
+                        "optionType": 0,
+                        "optionContent": "D.我觉得正受到惩罚"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 7,
+                "questionContent": "&lt;p&gt;7.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 25,
+                        "optionType": 0,
+                        "optionContent": "A.我对自己并不失望"
+                    },
+                    {
+                        "optionId": 26,
+                        "optionType": 0,
+                        "optionContent": "B.我对自己感到失望"
+                    },
+                    {
+                        "optionId": 27,
+                        "optionType": 0,
+                        "optionContent": "C.我对自己感到讨厌"
+                    },
+                    {
+                        "optionId": 28,
+                        "optionType": 0,
+                        "optionContent": "D.我恨我自己"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 8,
+                "questionContent": "&lt;p&gt;8.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 29,
+                        "optionType": 0,
+                        "optionContent": "A.我并不觉得自己比其他人更糟糕"
+                    },
+                    {
+                        "optionId": 30,
+                        "optionType": 0,
+                        "optionContent": "B.我对自己的弱点和错误要批判"
+                    },
+                    {
+                        "optionId": 31,
+                        "optionType": 0,
+                        "optionContent": "C.我在所有的时间里都责备自己的过错"
+                    },
+                    {
+                        "optionId": 32,
+                        "optionType": 0,
+                        "optionContent": "D.我责备自己所有的事情都弄坏了"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 9,
+                "questionContent": "&lt;p&gt;9.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 33,
+                        "optionType": 0,
+                        "optionContent": "A.我没有任何想弄死自己的想法"
+                    },
+                    {
+                        "optionId": 34,
+                        "optionType": 0,
+                        "optionContent": "B.我有自杀的想法，但我不会去做"
+                    },
+                    {
+                        "optionId": 35,
+                        "optionType": 0,
+                        "optionContent": "C.我想自杀"
+                    },
+                    {
+                        "optionId": 36,
+                        "optionType": 0,
+                        "optionContent": "D.如果有机会我就自杀"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 10,
+                "questionContent": "&lt;p&gt;10.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 37,
+                        "optionType": 0,
+                        "optionContent": "A.我哭泣和往常一样"
+                    },
+                    {
+                        "optionId": 38,
+                        "optionType": 0,
+                        "optionContent": "B.我比往常哭的多"
+                    },
+                    {
+                        "optionId": 39,
+                        "optionType": 0,
+                        "optionContent": "C.我现在一直要哭"
+                    },
+                    {
+                        "optionId": 40,
+                        "optionType": 0,
+                        "optionContent": "D.我过去能哭，但现在要哭也哭不出来"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 11,
+                "questionContent": "&lt;p&gt;11.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 41,
+                        "optionType": 0,
+                        "optionContent": "A.和过去相比，我现在生气并不多"
+                    },
+                    {
+                        "optionId": 42,
+                        "optionType": 0,
+                        "optionContent": "B.我现在稍微比往常更容易生气发火"
+                    },
+                    {
+                        "optionId": 43,
+                        "optionType": 0,
+                        "optionContent": "C.我在很多时间里都相当容易生气"
+                    },
+                    {
+                        "optionId": 44,
+                        "optionType": 0,
+                        "optionContent": "D.我所有时间里都感觉容易生气发火"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 12,
+                "questionContent": "&lt;p&gt;12.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 45,
+                        "optionType": 0,
+                        "optionContent": "A.我对其他人没有失去兴趣"
+                    },
+                    {
+                        "optionId": 46,
+                        "optionType": 0,
+                        "optionContent": "B.和过去相比，我对别人的兴趣减少了"
+                    },
+                    {
+                        "optionId": 47,
+                        "optionType": 0,
+                        "optionContent": "C.我对别人的兴趣大部分失去了"
+                    },
+                    {
+                        "optionId": 48,
+                        "optionType": 0,
+                        "optionContent": "D.我对别人的兴趣已全部丧失了"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 13,
+                "questionContent": "&lt;p&gt;13.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 49,
+                        "optionType": 0,
+                        "optionContent": "A.我作决定和过去一样好"
+                    },
+                    {
+                        "optionId": 50,
+                        "optionType": 0,
+                        "optionContent": "B.我推迟作出决定比过去多了"
+                    },
+                    {
+                        "optionId": 51,
+                        "optionType": 0,
+                        "optionContent": "C.我作决定比以前困难大的多"
+                    },
+                    {
+                        "optionId": 52,
+                        "optionType": 0,
+                        "optionContent": "D.我再也不能作出决定了"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 14,
+                "questionContent": "&lt;p&gt;14.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 53,
+                        "optionType": 0,
+                        "optionContent": "A.我觉得看上去我的外表并不比过去差"
+                    },
+                    {
+                        "optionId": 54,
+                        "optionType": 0,
+                        "optionContent": "B.我担心看上去我显得老了，没有吸引力了"
+                    },
+                    {
+                        "optionId": 55,
+                        "optionType": 0,
+                        "optionContent": "C.我觉得我的外貌有些固定的变化，使我难看了"
+                    },
+                    {
+                        "optionId": 56,
+                        "optionType": 0,
+                        "optionContent": "D.我相信我看起来很丑陋"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 15,
+                "questionContent": "&lt;p&gt;15.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 57,
+                        "optionType": 0,
+                        "optionContent": "A.我工作和以前一样好"
+                    },
+                    {
+                        "optionId": 58,
+                        "optionType": 0,
+                        "optionContent": "B.要着手做事，我现在要额外花些力气"
+                    },
+                    {
+                        "optionId": 59,
+                        "optionType": 0,
+                        "optionContent": "C.无论做什么事我必须努力催促自己才行"
+                    },
+                    {
+                        "optionId": 60,
+                        "optionType": 0,
+                        "optionContent": "D.我什么工作也不能做了"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 16,
+                "questionContent": "&lt;p&gt;16.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 61,
+                        "optionType": 0,
+                        "optionContent": "A.我睡觉与往常一样好"
+                    },
+                    {
+                        "optionId": 62,
+                        "optionType": 0,
+                        "optionContent": "B.我睡觉不如过去好"
+                    },
+                    {
+                        "optionId": 63,
+                        "optionType": 0,
+                        "optionContent": "C.我比往常早醒1～2小时，难以再入睡"
+                    },
+                    {
+                        "optionId": 64,
+                        "optionType": 0,
+                        "optionContent": "D.我比往常早醒几个小时，不能再睡"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 17,
+                "questionContent": "&lt;p&gt;17.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 65,
+                        "optionType": 0,
+                        "optionContent": "A.我并不感到比往常更疲乏"
+                    },
+                    {
+                        "optionId": 66,
+                        "optionType": 0,
+                        "optionContent": "B.我比过去更容易感到疲乏"
+                    },
+                    {
+                        "optionId": 67,
+                        "optionType": 0,
+                        "optionContent": "C.几乎不管做什么，我都感到疲乏无力"
+                    },
+                    {
+                        "optionId": 68,
+                        "optionType": 0,
+                        "optionContent": "D.我太疲乏无力，不能做任何事情"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 18,
+                "questionContent": "&lt;p&gt;18.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 69,
+                        "optionType": 0,
+                        "optionContent": "A.我的食欲与往常一样"
+                    },
+                    {
+                        "optionId": 70,
+                        "optionType": 0,
+                        "optionContent": "B.我的食欲不如过去好"
+                    },
+                    {
+                        "optionId": 71,
+                        "optionType": 0,
+                        "optionContent": "C.我现在的食欲差得多了"
+                    },
+                    {
+                        "optionId": 72,
+                        "optionType": 0,
+                        "optionContent": "D.我一点也没有食欲了"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 19,
+                "questionContent": "&lt;p&gt;19.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 73,
+                        "optionType": 0,
+                        "optionContent": "A.最近我的体重并无很大减轻"
+                    },
+                    {
+                        "optionId": 74,
+                        "optionType": 0,
+                        "optionContent": "B.我的体重下降了5磅（约2.25kg）以上"
+                    },
+                    {
+                        "optionId": 75,
+                        "optionType": 0,
+                        "optionContent": "C.我的体重下降了10 磅（约4.5kg）以上"
+                    },
+                    {
+                        "optionId": 76,
+                        "optionType": 0,
+                        "optionContent": "D.我的体重下降15磅（约6.75kg）以上"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 20,
+                "questionContent": "&lt;p&gt;20.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 77,
+                        "optionType": 0,
+                        "optionContent": "A.我对最近的健康状况并不比往常更担心"
+                    },
+                    {
+                        "optionId": 78,
+                        "optionType": 0,
+                        "optionContent": "B.我担心身体上的问题，如疼痛、胃不适或便秘"
+                    },
+                    {
+                        "optionId": 79,
+                        "optionType": 0,
+                        "optionContent": "C.我非常担心身体问题，想别的事情很难"
+                    },
+                    {
+                        "optionId": 80,
+                        "optionType": 0,
+                        "optionContent": "D.我对身体问题如此担忧，以致不能想其他任何事情"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 21,
+                "questionContent": "&lt;p&gt;21.请从以下选项中选出一条(最近两周)最适合你情况的选项&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 81,
+                        "optionType": 0,
+                        "optionContent": "A.我没有发现我对性的兴趣最近有什么变化"
+                    },
+                    {
+                        "optionId": 82,
+                        "optionType": 0,
+                        "optionContent": "B.我对性的兴趣比过去降低了"
+                    },
+                    {
+                        "optionId": 83,
+                        "optionType": 0,
+                        "optionContent": "C.现在我对性的兴趣大大降低了"
+                    },
+                    {
+                        "optionId": 84,
+                        "optionType": 0,
+                        "optionContent": "D.我对性的兴趣已经完全丧失"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 22,
+                "questionContent": "&lt;p&gt;22.我父母的婚姻状况是&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 85,
+                        "optionType": 0,
+                        "optionContent": "A.未离异"
+                    },
+                    {
+                        "optionId": 86,
+                        "optionType": 0,
+                        "optionContent": "B.父母在我7岁后离异"
+                    },
+                    {
+                        "optionId": 87,
+                        "optionType": 0,
+                        "optionContent": "C.父母在我3-7岁间离异"
+                    },
+                    {
+                        "optionId": 88,
+                        "optionType": 0,
+                        "optionContent": "D.父母在我3岁前离异"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 23,
+                "questionContent": "&lt;p&gt;23.我父母的关系&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 89,
+                        "optionType": 0,
+                        "optionContent": "A.和睦"
+                    },
+                    {
+                        "optionId": 90,
+                        "optionType": 0,
+                        "optionContent": "B.经常争吵"
+                    },
+                    {
+                        "optionId": 91,
+                        "optionType": 0,
+                        "optionContent": "C.经常打架"
+                    },
+                    {
+                        "optionId": 92,
+                        "optionType": 0,
+                        "optionContent": "D.长期冷战"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 24,
+                "questionContent": "&lt;p&gt;24.我七岁前曾经超过1周时间住在别人家里&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 93,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 94,
+                        "optionType": 0,
+                        "optionContent": "B.住在爷爷奶奶/姥姥姥爷家"
+                    },
+                    {
+                        "optionId": 95,
+                        "optionType": 0,
+                        "optionContent": "C.住在其他亲戚家"
+                    },
+                    {
+                        "optionId": 96,
+                        "optionType": 0,
+                        "optionContent": "D.住在无血缘关系人家"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 25,
+                "questionContent": "&lt;p&gt;25.我小时候曾经被寄养在别人家&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 97,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 98,
+                        "optionType": 0,
+                        "optionContent": "B.七岁后有寄养经历"
+                    },
+                    {
+                        "optionId": 99,
+                        "optionType": 0,
+                        "optionContent": "C.在3-7岁间有寄养经历"
+                    },
+                    {
+                        "optionId": 100,
+                        "optionType": 0,
+                        "optionContent": "D.3岁前有过寄养经历"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 26,
+                "questionContent": "&lt;p&gt;26.我的家人中经常有人挨打&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 101,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 102,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 27,
+                "questionContent": "&lt;p&gt;27.我的家人中有人酗酒或者吸毒&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 103,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 104,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 28,
+                "questionContent": "&lt;p&gt;28.我的家人中有人坐牢或离家出走&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 105,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 106,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 29,
+                "questionContent": "&lt;p&gt;29.我的家人中有人已经去世了&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 107,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 108,
+                        "optionType": 0,
+                        "optionContent": "B.我有兄弟姐妹去世"
+                    },
+                    {
+                        "optionId": 109,
+                        "optionType": 0,
+                        "optionContent": "C.我的父亲/母亲在我七岁之后去世"
+                    },
+                    {
+                        "optionId": 110,
+                        "optionType": 0,
+                        "optionContent": "D.我的父亲/母亲在我七岁之前去世"
+                    },
+                    {
+                        "optionId": 111,
+                        "optionType": 0,
+                        "optionContent": "E.我父母均已经去世"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 30,
+                "questionContent": "&lt;p&gt;30.我吃不饱&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 112,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 113,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 31,
+                "questionContent": "&lt;p&gt;31.我觉得父母希望从来没有生过我&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 114,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 115,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 32,
+                "questionContent": "&lt;p&gt;32.我的父母或者养育者经常羞辱我&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 116,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 117,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 33,
+                "questionContent": "&lt;p&gt;33.我曾经被打得很重，周围有人都注意到了&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 118,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 119,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 34,
+                "questionContent": "&lt;p&gt;34.有人曾经威逼或引诱我做性方面的事情&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 120,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 121,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 35,
+                "questionContent": "&lt;p&gt;35.我难过的时候会弄伤自己&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 122,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 123,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 36,
+                "questionContent": "&lt;p&gt;36.我心情不好的时候会去做一些刺激的事情，例如轻微违法行为&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 124,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 125,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 37,
+                "questionContent": "&lt;p&gt;37.我需要用长时间打游戏或上网来调节自己的心情&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 126,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 127,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 38,
+                "questionContent": "&lt;p&gt;38.我曾经被医院诊断为以下疾病&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 128,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 129,
+                        "optionType": 0,
+                        "optionContent": "B.焦虑症"
+                    },
+                    {
+                        "optionId": 130,
+                        "optionType": 0,
+                        "optionContent": "C.疑病症"
+                    },
+                    {
+                        "optionId": 131,
+                        "optionType": 0,
+                        "optionContent": "D.癔症"
+                    },
+                    {
+                        "optionId": 132,
+                        "optionType": 0,
+                        "optionContent": "E.强迫症"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 39,
+                "questionContent": "&lt;p&gt;39.我曾经被医院诊断为以下疾病&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 133,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 134,
+                        "optionType": 0,
+                        "optionContent": "B.进食障碍"
+                    },
+                    {
+                        "optionId": 135,
+                        "optionType": 0,
+                        "optionContent": "C.神经衰弱"
+                    },
+                    {
+                        "optionId": 136,
+                        "optionType": 0,
+                        "optionContent": "D.躯体形式障碍"
+                    },
+                    {
+                        "optionId": 137,
+                        "optionType": 0,
+                        "optionContent": "E.其他精神障碍"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 40,
+                "questionContent": "&lt;p&gt;40.我曾经被医院诊断为以下疾病&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 138,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 139,
+                        "optionType": 0,
+                        "optionContent": "B.精神分裂症"
+                    },
+                    {
+                        "optionId": 140,
+                        "optionType": 0,
+                        "optionContent": "C.抑郁障碍"
+                    },
+                    {
+                        "optionId": 141,
+                        "optionType": 0,
+                        "optionContent": "D.双相障碍"
+                    },
+                    {
+                        "optionId": 142,
+                        "optionType": 0,
+                        "optionContent": "E.人格障碍"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 41,
+                "questionContent": "&lt;p&gt;41.我曾经有过心理咨询或心理治疗的经历&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 143,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 144,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 42,
+                "questionContent": "&lt;p&gt;42.我曾经有过自杀的经历&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 145,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 146,
+                        "optionType": 0,
+                        "optionContent": "B.一年以前有过"
+                    },
+                    {
+                        "optionId": 147,
+                        "optionType": 0,
+                        "optionContent": "C.在最近一年有过"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 43,
+                "questionContent": "&lt;p&gt;43.我患有某种致命性疾病&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 148,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 149,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 44,
+                "questionContent": "&lt;p&gt;44.我患有某种传染性疾病&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 150,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 151,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 45,
+                "questionContent": "&lt;p&gt;45.我和家人的关系状况是&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 152,
+                        "optionType": 0,
+                        "optionContent": "A.关系好，在我需要的时候可以及时得到帮助"
+                    },
+                    {
+                        "optionId": 153,
+                        "optionType": 0,
+                        "optionContent": "B.关系好，但他们帮不到我"
+                    },
+                    {
+                        "optionId": 154,
+                        "optionType": 0,
+                        "optionContent": "C.关系一般"
+                    },
+                    {
+                        "optionId": 155,
+                        "optionType": 0,
+                        "optionContent": "D.关系差"
+                    },
+                    {
+                        "optionId": 156,
+                        "optionType": 0,
+                        "optionContent": "E.关系恶劣，冷漠"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 46,
+                "questionContent": "&lt;p&gt;46.我和朋友的关系状况是&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 157,
+                        "optionType": 0,
+                        "optionContent": "A.关系好，我可以在需要时及时得到他们的帮助"
+                    },
+                    {
+                        "optionId": 158,
+                        "optionType": 0,
+                        "optionContent": "B.关系好，但是在需要时难以及时得到他们的帮助"
+                    },
+                    {
+                        "optionId": 159,
+                        "optionType": 0,
+                        "optionContent": "C.关系一般"
+                    },
+                    {
+                        "optionId": 160,
+                        "optionType": 0,
+                        "optionContent": "D.我没有什么朋友"
+                    },
+                    {
+                        "optionId": 161,
+                        "optionType": 0,
+                        "optionContent": "E.我不需要朋友"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 47,
+                "questionContent": "&lt;p&gt;47.如果是我的错误，我都会承认&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 162,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 163,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 48,
+                "questionContent": "&lt;p&gt;48.我是一个诚实守信、言行一致的人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 164,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 165,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 49,
+                "questionContent": "&lt;p&gt;49.我从来没有闯过红绿灯&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 166,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 167,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 50,
+                "questionContent": "&lt;p&gt;50.我在饭前便后都必定会洗手&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 168,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 169,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 51,
+                "questionContent": "&lt;p&gt;51.我是一个做任何事情都会说到做到的人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 170,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 171,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 52,
+                "questionContent": "&lt;p&gt;52.当别人做了好事，而周围的人却认为是我做的时候，我不会说出来&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 172,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 173,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 53,
+                "questionContent": "&lt;p&gt;53.我从不占别人便宜&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 174,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 175,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 54,
+                "questionContent": "&lt;p&gt;54.我曾经有过自己做错了事反倒责备别人的经历&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 176,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 177,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 55,
+                "questionContent": "&lt;p&gt;55.即便是在微博上，我也从不骂人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 178,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 179,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 56,
+                "questionContent": "&lt;p&gt;56.我有时候谈论一些事情显得很了解实际上自己并不清楚&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 180,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 181,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 57,
+                "questionContent": "&lt;p&gt;57.我在小时候曾经是一个非常听大人话的乖孩子，对大人从无怨言&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 182,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 183,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 58,
+                "questionContent": "&lt;p&gt;58.我曾经有多次在地铁或公交车上，尽管身边有老人但我没有起身让座的经历&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 184,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 185,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 59,
+                "questionContent": "&lt;p&gt;59.我从来不抱怨别人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 186,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 187,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 60,
+                "questionContent": "&lt;p&gt;60.我做事情从不拖延&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 188,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 189,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 61,
+                "questionContent": "&lt;p&gt;61.我在打电脑游戏或打牌时，曾经有过作弊的行为&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 190,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 191,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 62,
+                "questionContent": "&lt;p&gt;62.我曾经利用过别人以使得自己获益&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 192,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 193,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 63,
+                "questionContent": "&lt;p&gt;63.如果有不认识的人微信里错误转钱或者发红包给我，我可能会不退还给对方&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 194,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 195,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 64,
+                "questionContent": "&lt;p&gt;64.我从来不和别人争吵或发生冲突&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 196,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 197,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 65,
+                "questionContent": "&lt;p&gt;65.我从来没有迟到过，无论是上学还是约会&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 198,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 199,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 66,
+                "questionContent": "&lt;p&gt;66.我曾经有吹嘘自己的经历&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 200,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 201,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 67,
+                "questionContent": "&lt;p&gt;67.我曾经占过别人小便宜&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 202,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 203,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 68,
+                "questionContent": "&lt;p&gt;68.在公交车上，我总是能主动让座给老幼病残孕&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 204,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 205,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 69,
+                "questionContent": "&lt;p&gt;69.我曾经闯过红绿灯&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 206,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 207,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 70,
+                "questionContent": "&lt;p&gt;70.我曾经和人发生过冲突&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 208,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 209,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 71,
+                "questionContent": "&lt;p&gt;71.有时我完成一项工作会超过原来规定的期限&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 210,
+                        "optionType": 0,
+                        "optionContent": "A.否"
+                    },
+                    {
+                        "optionId": 211,
+                        "optionType": 0,
+                        "optionContent": "B.是"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 72,
+                "questionContent": "&lt;p&gt;72.我常常愿意帮助别人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 212,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 213,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 214,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 215,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 216,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 73,
+                "questionContent": "&lt;p&gt;73.我很了解自己人生的意义&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 217,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 218,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 219,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 220,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 221,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 74,
+                "questionContent": "&lt;p&gt;74.我的生活有很明确的目标&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 222,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 223,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 224,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 225,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 226,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 75,
+                "questionContent": "&lt;p&gt;75.对我来说学习是一件有意义的事&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 227,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 228,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 229,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 230,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 231,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 76,
+                "questionContent": "&lt;p&gt;76.对我来说学习令我感到烦恼&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 232,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 233,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 234,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 235,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 236,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 77,
+                "questionContent": "&lt;p&gt;77.我厌恶学习并极力逃避学习&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 237,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 238,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 239,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 240,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 241,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 78,
+                "questionContent": "&lt;p&gt;78.学习是无意义的&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 242,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 243,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 244,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 245,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 246,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 79,
+                "questionContent": "&lt;p&gt;79.我习惯于努力学习但又厌恶学习&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 247,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 248,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 249,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 250,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 251,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 80,
+                "questionContent": "&lt;p&gt;80.我感觉到自己情绪低落已经超过一个月了&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 252,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 253,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 254,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 255,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 256,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 81,
+                "questionContent": "&lt;p&gt;81.我对自己的未来感到有希望&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 257,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 258,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 259,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 260,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 261,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 82,
+                "questionContent": "&lt;p&gt;82.我感到自己是有用的和不可缺少的人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 262,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 263,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 264,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 265,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 266,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 83,
+                "questionContent": "&lt;p&gt;83.我的生活很有意义&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 267,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 268,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 269,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 270,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 271,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 84,
+                "questionContent": "&lt;p&gt;84.我仍旧对自己平时喜欢做的事情感兴趣&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 272,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 273,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 274,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 275,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 276,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 85,
+                "questionContent": "&lt;p&gt;85.我感到很孤独，没有人能真正理解我&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 277,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 278,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 279,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 280,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 281,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 86,
+                "questionContent": "&lt;p&gt;86.我和周围人关系都很好&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 282,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 283,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 284,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 285,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 286,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 87,
+                "questionContent": "&lt;p&gt;87.我在努力使得别人觉得我是一个好学生&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 287,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 288,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 289,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 290,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 291,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 88,
+                "questionContent": "&lt;p&gt;88.对自己特别不满足，总是觉得要各方面做的更好&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 292,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 293,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 294,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 295,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 296,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 89,
+                "questionContent": "&lt;p&gt;89.学习成绩好使得我有成就感&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 297,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 298,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 299,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 300,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 301,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 90,
+                "questionContent": "&lt;p&gt;90.我觉得自己一直在为别人学习甚至活着&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 302,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 303,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 304,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 305,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 306,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 91,
+                "questionContent": "&lt;p&gt;91.我找不到自己，不知道自己想要成为怎样的人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 307,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 308,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 309,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 310,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 311,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 92,
+                "questionContent": "&lt;p&gt;92.我有自己认可和敬重的人&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 312,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 313,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 314,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 315,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 316,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 93,
+                "questionContent": "&lt;p&gt;93.我有时想要结束自己的生命&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 317,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 318,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 319,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 320,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 321,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 94,
+                "questionContent": "&lt;p&gt;94.我不知道自己为什么要活下去&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 322,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 323,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 324,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 325,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 326,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 95,
+                "questionContent": "&lt;p&gt;95.我曾经尝试过伤害自己&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 327,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 328,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 329,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 330,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 331,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            },
+            {
+                "questionId": 96,
+                "questionContent": "&lt;p&gt;96.当生命已无价值可言时，自杀是可以理解的&lt;/p&gt;",
+                "isRequired": "1",
+                "optionList": [
+                    {
+                        "optionId": 332,
+                        "optionType": 0,
+                        "optionContent": "A.完全符合"
+                    },
+                    {
+                        "optionId": 333,
+                        "optionType": 0,
+                        "optionContent": "B.基本符合"
+                    },
+                    {
+                        "optionId": 334,
+                        "optionType": 0,
+                        "optionContent": "C.不确定"
+                    },
+                    {
+                        "optionId": 335,
+                        "optionType": 0,
+                        "optionContent": "D.基本不符合"
+                    },
+                    {
+                        "optionId": 336,
+                        "optionType": 0,
+                        "optionContent": "E.完全不符合"
+                    }
+                ],
+                "childList": []
+            }
+        ],
+        "cacheTime": "2026-03-12T09:00:10.0497228+08:00"
+    }
+}
